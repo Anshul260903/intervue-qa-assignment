@@ -24,10 +24,9 @@ Before running the tests, ensure you have:
 
 ⚙️ Setup
 1. Clone this repository:
-
-bash
-git clone https://github.com/Anshul260903/intervue-qa-assignment.git
-cd intervue-qa-assignment
+   bash
+   git clone https://github.com/Anshul260903/intervue-qa-assignment.git
+   cd intervue-qa-assignment
 
 2. Install dependencies:
 bash
