@@ -1,6 +1,5 @@
 # Intervue.io QA Automation Test
 
-![Selenium Logo](https://selenium.dev/images/selenium_logo_square_green.png)  
 *Automated using Selenium WebDriver with JavaScript*
 
 ## 📝 Description
